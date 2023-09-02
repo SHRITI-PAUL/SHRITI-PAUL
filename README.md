@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shriti Paul</h1>
-<h3 align="center">B.Tech 3rd year undergraduate</h3>
+<h3 align="center">B.Tech 4th year undergraduate</h3>
 
                                               - 🌱 I’m currently learning web development
 
